@@ -1,0 +1,4 @@
+DL(ID:001;Name:Đức oke;Age:99;Birthday:20/10/1997;Gender:1;Job:1)
+DL(ID:002;Name:Nam;Age:24;Birthday:14/10/1997;Gender:2;Job:3)
+DL(ID:003;Name:Lê Thị Hà;Age:24;Birthday:16/04/1997;Gender:2;Job:3)
+DL(ID:008;Name:Hà Lê dỐT;Age:24;Birthday:14/04/1997;Gender:2;Job:3)
